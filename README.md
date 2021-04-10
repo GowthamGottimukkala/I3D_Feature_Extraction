@@ -44,5 +44,5 @@ Typical usage example:
 ```
 mkdir build
 make
-python main.py --datasetpath=videos/ --outputpath=output
+python main.py --datasetpath=samplevideos/ --outputpath=output
 ```
