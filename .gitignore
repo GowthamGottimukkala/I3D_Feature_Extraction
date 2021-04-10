@@ -1,2 +1,4 @@
-/build
-/output
+build/
+output/
+samplevideos/
+extraction/__pycache__/
