@@ -38,3 +38,11 @@ real	0m8.246s
 user	0m3.772s
 sys 0m4.428s
 ```
+
+## New
+Typical usage example:
+```
+mkdir build
+make
+python main.py --datasetpath=videos/ --outputpath=output
+```
